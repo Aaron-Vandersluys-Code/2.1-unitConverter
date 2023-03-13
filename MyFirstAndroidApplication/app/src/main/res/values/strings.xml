@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First Android Application</string>
+    <string name="new_app_name">My Updated First Android Application</string>
+</resources>
